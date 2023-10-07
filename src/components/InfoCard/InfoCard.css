@@ -1,0 +1,24 @@
+.headshot_circle {
+  width: 12rem;
+  height: 12rem;
+}
+
+.MuiCardContent-root {
+  &:last-child {
+    padding: 1rem;
+  }
+}
+
+.MuiCard-root {
+  width: 40rem;
+}
+
+.SocialButton:nth-child(n) {
+  color:black;
+  :nth-child(n) {
+    font-size: 2rem;
+  };
+}
+
+
+
